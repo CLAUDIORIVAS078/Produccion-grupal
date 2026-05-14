@@ -11,14 +11,16 @@ public class PlaMovimiento
     private Rigidbody2D _rb;
     private Transform _brazoTrans;
     private Transform _pleTrans;
+    private Transform _spownBala;
     private Animator _animator;
     
-    public PlaMovimiento(Rigidbody2D rb2D, float velocidad, Transform brazoTrans, Transform pleTrans, float angulo, Animator ani) 
+    public PlaMovimiento(Rigidbody2D rb2D, float velocidad, Transform brazoTrans, Transform pleTrans, Transform spownBala,float angulo, Animator ani) 
     {
         _rb = rb2D;
         _brazoTrans = brazoTrans;
         _vel = velocidad;
         _pleTrans = pleTrans;
+        _spownBala = spownBala;
         _angulo = angulo;
         _animator = ani;
     }
@@ -39,7 +41,7 @@ public class PlaMovimiento
 
     public void Rotacion(Transform dirMirar)
     {
-        var vecApuntado = dirMirar.position - _pleTrans.position;
+        var vecApuntado = dirMirar.position - _spownBala.position;
         _brazoTrans.right = new Vector3(vecApuntado.x, vecApuntado.y, 0);
         if (dirMirar.position.x > _pleTrans.position.x)
         {

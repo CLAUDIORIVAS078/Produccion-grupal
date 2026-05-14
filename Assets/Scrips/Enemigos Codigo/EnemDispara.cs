@@ -18,6 +18,7 @@ public class EnemDispara : Enemigos
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
+        _vidaActual = _vidaMax;
     }
 
     private void Update()
@@ -25,8 +26,8 @@ public class EnemDispara : Enemigos
         _dirBala = _player.transform.position - _spownBala.transform.position;
         _spownBala.transform.right = _dirBala;
         _hit = Physics2D.Raycast(_spownBala.transform.position, _dirBala, _rangoVision);
-        //if (_hit.collider == null) { Debug.LogError("Manco te falto colider"); }
-        //else if (_hit.transform.gameObject.layer == 7) { Comportamiento(); } 
+        if (_hit.collider == null) { Debug.LogError("Manco te falto colider"); }
+        else if (_hit.transform.gameObject.layer == 7) { Comportamiento(); } 
     }
 
     private void Comportamiento() //Pasar a una FMS para mejorar el comportamiento
@@ -49,6 +50,7 @@ public class EnemDispara : Enemigos
         if (_contador >= _velDisparo)
         {
             Instantiate(_bala, _spownBala.transform.position, _spownBala.transform.rotation);
+            BalaEnem.instance.Daño(_daño);
             _contador = 0;
         }
         else { _contador++; }
@@ -65,11 +67,12 @@ public class EnemDispara : Enemigos
     }
     public override void DañoRecivido(int dañoRes)
     {
-        throw new System.NotImplementedException();
+        _vidaActual -= dañoRes;
+        if(_vidaActual <= 0) { Muerto(); }
     }
 
     public override void Muerto()
     {
-        throw new System.NotImplementedException();
+        Destroy(gameObject);
     }
 }
