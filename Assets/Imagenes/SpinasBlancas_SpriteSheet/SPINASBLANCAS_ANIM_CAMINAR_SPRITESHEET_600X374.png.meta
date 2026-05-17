@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 722d904ff849b1a418599b7b40934bb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2982899694198921868
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_0
+  - first:
+      213: -164783920222445349
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_1
+  - first:
+      213: -3849052371366294257
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_2
+  - first:
+      213: 6130578509779480943
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_3
+  - first:
+      213: -1346399633409633994
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_4
+  - first:
+      213: 5866017505786064042
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_5
+  - first:
+      213: -6767900784324935514
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_6
+  - first:
+      213: -7979299898211446149
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_7
+  - first:
+      213: 1874465666993460998
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_8
+  - first:
+      213: 9151657751623187509
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_9
+  - first:
+      213: -8009078777070644335
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_10
+  - first:
+      213: -8042472204407235962
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_11
+  - first:
+      213: -4775965590947043381
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_12
+  - first:
+      213: 5599446339498793198
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_13
+  - first:
+      213: 7669079498234689823
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_14
+  - first:
+      213: -4693257147865912065
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_15
+  - first:
+      213: -3259314234557776035
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_16
+  - first:
+      213: 1599875057673768706
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_17
+  - first:
+      213: -7887234044128255232
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_18
+  - first:
+      213: 4701457117521346483
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_19
+  - first:
+      213: 7539881222020365862
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_20
+  - first:
+      213: 1472387682928442549
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_21
+  - first:
+      213: -7147273030047254611
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_22
+  - first:
+      213: -807407603012867173
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_23
+  - first:
+      213: -3325511238879393587
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_24
+  - first:
+      213: 6688835520172923291
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_25
+  - first:
+      213: 7270678306046739584
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_26
+  - first:
+      213: 2734713607333021491
+    second: SPNASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1674
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf02a19e2033c344c894768d38c628a7
+      internalID: 970564657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_1
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1674
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc3d6909d4749e4cafee37dad0e555d
+      internalID: 673944094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_2
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1674
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9c69e2c2f129d4a8116c7eab1eb364
+      internalID: -1708086183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_3
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1674
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1071ac4fcc65d1c4facb165108b3904f
+      internalID: -2040003974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_4
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1674
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b86920ee0a40c4aadcbf5b25c2706a
+      internalID: -1665426698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_5
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 1674
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab8640df482524f87e8cf2076ed5b4
+      internalID: 520766489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee67c18ace89161448ecbe8a3cc27725
+      internalID: -944586883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1300
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e005961515e480e4ca0df94450ee6615
+      internalID: -763312850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_8
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1300
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84fd95d4af98f543b1b56be7aa1abdc
+      internalID: -1050377099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_9
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1300
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e50d1f6567fb724590a7926f0fbaf58
+      internalID: -679445802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_10
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1300
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bff56b1001ff243999b70ac4223525
+      internalID: 1346587086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_11
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 1300
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486e84fda2cd9e04ba3eb24b632f6ed5
+      internalID: -2113503617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 926
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a4911a06cb82444b6390e7aa98bfda
+      internalID: -1565666301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 926
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f76b74b47f370d49822111ae418bb2e
+      internalID: 333009986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_14
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 926
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88112aa329254f044a43fca7e23b57b2
+      internalID: 1969852848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_15
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 926
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19eb560549b75347903526ac17a0cf3
+      internalID: 1330332585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_16
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 926
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a2a786337799040b56acbbfd33d475
+      internalID: -1689130218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_17
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 926
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef32e13101ac64c43975714194be9509
+      internalID: -1413886784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc620743ec3c1f4e9123ab8a92a6e39
+      internalID: 756906546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_19
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 552
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382dccf05dee4c34284660b1e66f5763
+      internalID: 380614214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_20
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 552
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c93cc71a49a83b40aa773b8854ce9d0
+      internalID: -1304327193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_21
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 552
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da0dec5adffc1549bc3a86634e7aa5f
+      internalID: -1834840906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_22
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 552
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed50a353d56ae69458aa25b46b13e744
+      internalID: -1626130396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_23
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 552
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e2028396aab5e43a6f655a78b3b85c
+      internalID: -1378372930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a91d6294d9ade4c8101d87e48932b6
+      internalID: 66188113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_25
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 178
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c4669e0bcc798408a8201ac963e2d9
+      internalID: -1689261682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_26
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 178
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd28a2337684af94d90860aeeda6ddc3
+      internalID: -1224958433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_27
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 178
+        width: 601
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f3ca200433a884fbfcb4e386d6a29f
+      internalID: 1849263821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 549d079f7b44a3443ba4c660c4c0be0e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_0: 970564657
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_1: 673944094
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_10: 1346587086
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_11: -2113503617
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_12: -1565666301
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_13: 333009986
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_14: 1969852848
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_15: 1330332585
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_16: -1689130218
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_17: -1413886784
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_18: 756906546
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_19: 380614214
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_2: -1708086183
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_20: -1304327193
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_21: -1834840906
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_22: -1626130396
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_23: -1378372930
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_24: 66188113
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_25: -1689261682
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_26: -1224958433
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_27: 1849263821
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_3: -2040003974
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_4: -1665426698
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_5: 520766489
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_6: -944586883
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_7: -763312850
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_8: -1050377099
+      SPINASBLANCAS_ANIM_CAMINAR_SPRITESHEET_600X374_9: -679445802
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
