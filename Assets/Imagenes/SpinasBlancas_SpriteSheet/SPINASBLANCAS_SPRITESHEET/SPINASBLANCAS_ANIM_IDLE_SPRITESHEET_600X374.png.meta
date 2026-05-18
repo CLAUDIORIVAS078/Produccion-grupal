@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 826c6b3bad5943144aacb87700190409
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5664315825449125430
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_0
+  - first:
+      213: 8014157272363267212
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_1
+  - first:
+      213: -11855051322728232
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_2
+  - first:
+      213: 1356827695574605198
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_3
+  - first:
+      213: 2333508474965298692
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_4
+  - first:
+      213: -6836380370125915293
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_5
+  - first:
+      213: -2001611998475230950
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_6
+  - first:
+      213: 3851768995289973739
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_7
+  - first:
+      213: 2933638645241780428
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_8
+  - first:
+      213: -6951723636680289500
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_9
+  - first:
+      213: -7819226704535362238
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_10
+  - first:
+      213: 5218576735387344137
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_11
+  - first:
+      213: 439845135635790700
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_12
+  - first:
+      213: 7088868359134932845
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_13
+  - first:
+      213: -7296505573836988076
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_14
+  - first:
+      213: -4253007498979108851
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_15
+  - first:
+      213: -2789127665926048077
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_16
+  - first:
+      213: -3429685199128044134
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_17
+  - first:
+      213: -7976505676140146519
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_18
+  - first:
+      213: 4213498476756296246
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_19
+  - first:
+      213: -1933729850499186237
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_20
+  - first:
+      213: -1602879660754939761
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_21
+  - first:
+      213: 8810472419532902059
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_22
+  - first:
+      213: 7708556167659488403
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_23
+  - first:
+      213: 460571387827026527
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_24
+  - first:
+      213: -3797271770744564273
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_25
+  - first:
+      213: 7908365765831979795
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_26
+  - first:
+      213: -3643745454361908948
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_27
+  - first:
+      213: -8092069715785193735
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_28
+  - first:
+      213: 554789436337154727
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_29
+  - first:
+      213: -2429444770178843049
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_30
+  - first:
+      213: 4337212516684785327
+    second: SPINASBLANCAS_ANIMACION_IDLE_SPRITESHEET_600X374_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e31a245b77e9041827ea3af04ac310
+      internalID: 616262676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_1
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1708
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae46b4a01802da44fa48984d219cbbfd
+      internalID: 299045914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_2
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1708
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58694885222408c40828e168ac65d586
+      internalID: -1909308143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_3
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1708
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a7fe33e1b03f445a7cec0b10b979c0
+      internalID: -251947969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_4
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1708
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a102c126b142c34a9c8148c74ef9861
+      internalID: 425938046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_5
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 1708
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd800536deb4da40961b51e306e527d
+      internalID: -1687835304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd8671d500037459cb166ecf90f9fe
+      internalID: -452476757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1368
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92ed308c7222e441b4fcae1a828211e
+      internalID: 90634157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_8
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1368
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c11bc4c103caa4b95465cfe3208905
+      internalID: 2004966166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_9
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1368
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd00b02f2ee613e4fb63f230fedc3af3
+      internalID: -1693228337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_10
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1368
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e9f8de65ccff3488c626f4e72924ca
+      internalID: -31855884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_11
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 1368
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e372f7460b8e5964db6d6dcd804ab1e0
+      internalID: 1223782223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44fd59cdbe61d04da83157fc1c5fc2d
+      internalID: -1818084902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_13
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1028
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db371888a55ff6479bb7976d2f662d4
+      internalID: -1594023189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_14
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1028
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63949f98d7fe67488def69d9c44cfa6
+      internalID: 429604837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_15
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1028
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d1b1e8c88fe6f4188208e7cdee8891
+      internalID: -2011073358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_16
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1028
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb17a1ada1c65f744a8568ebe985a302
+      internalID: 2117590380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_17
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 1028
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1cc60f9ab50574385e31d3517ac06c
+      internalID: 1167371930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb4afe413d1b684e8aac9245759a150
+      internalID: -254861087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_19
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 688
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2f50f28d27e3b4cb31c8a2ccb364e7
+      internalID: 946852133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_20
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 688
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adb6a55086e7ae4b8368bf7625f3a78
+      internalID: -188422924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_21
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 688
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a375b842507210a43aa7f86895c9e096
+      internalID: 360238289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_22
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 688
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ab012787c98045af19f4262ec8a4f
+      internalID: -953799364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_23
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 688
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9317ea4c3745640a6daadcbdafb238
+      internalID: -739646485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc48d1144b94da419dfb5edfaed56f9
+      internalID: -227761279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_25
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 348
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d1b98b0fab17d46981f3826c003799
+      internalID: -1531082566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_26
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 348
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea78460a90dfc79498921308169c56e4
+      internalID: -225264653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_27
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 348
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f17e6334f54bac45ad35a09eb43fe14
+      internalID: 72640291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_28
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 348
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d09c9d33fbaaf446a36134da5541410
+      internalID: 631681826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_29
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 348
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68a58c5a41608e4bb030fb36f1d3222
+      internalID: 778403127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef79c2a180eb0d24985781916625f8bb
+      internalID: 33068789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_31
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 8
+        width: 597
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b576ce82bd71b4545abeebe99c872cd7
+      internalID: 1790061140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bc2b0f9e0ad20614297a3620f6694967
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_0: 616262676
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_1: 299045914
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_10: -31855884
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_11: 1223782223
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_12: -1818084902
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_13: -1594023189
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_14: 429604837
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_15: -2011073358
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_16: 2117590380
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_17: 1167371930
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_18: -254861087
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_19: 946852133
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_2: -1909308143
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_20: -188422924
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_21: 360238289
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_22: -953799364
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_23: -739646485
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_24: -227761279
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_25: -1531082566
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_26: -225264653
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_27: 72640291
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_28: 631681826
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_29: 778403127
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_3: -251947969
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_30: 33068789
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_31: 1790061140
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_4: 425938046
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_5: -1687835304
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_6: -452476757
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_7: 90634157
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_8: 2004966166
+      SPINASBLANCAS_ANIM_IDLE_SPRITESHEET_600X374_9: -1693228337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
