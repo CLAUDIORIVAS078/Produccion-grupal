@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: d000810f50ca03c4c8b509c9acacc2d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5650241989806710022
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_0
+  - first:
+      213: 2394884892090699889
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_1
+  - first:
+      213: 853155788485558550
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_2
+  - first:
+      213: 4739648349150511309
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_3
+  - first:
+      213: -3078014211131582604
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_4
+  - first:
+      213: -1071622082789668829
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_5
+  - first:
+      213: -3772801508995361621
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_6
+  - first:
+      213: -8202288877764654697
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_7
+  - first:
+      213: 7722196943275116598
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_8
+  - first:
+      213: -309940500617568755
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_9
+  - first:
+      213: -417624660039062530
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_10
+  - first:
+      213: 5579827292044974478
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_11
+  - first:
+      213: 3634107250563531609
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_12
+  - first:
+      213: -3548450096370363887
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_13
+  - first:
+      213: 475768682477068500
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_14
+  - first:
+      213: 6255815926892374723
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_15
+  - first:
+      213: 6268393408190454183
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_16
+  - first:
+      213: 21702715673992710
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_17
+  - first:
+      213: 4302859022500198760
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_18
+  - first:
+      213: 1966277385170518254
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_19
+  - first:
+      213: -2506036776212027471
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_20
+  - first:
+      213: -5105078091746120464
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_21
+  - first:
+      213: 7866064739185441652
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_22
+  - first:
+      213: -5811122530427622608
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_23
+  - first:
+      213: 6232849414017778252
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_24
+  - first:
+      213: -8154054421447917803
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_25
+  - first:
+      213: 3152168946224274692
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_26
+  - first:
+      213: 6469144790741103176
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_27
+  - first:
+      213: -3945170808068815768
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_28
+  - first:
+      213: 5042182326220819596
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_29
+  - first:
+      213: -1400509952855108994
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_30
+  - first:
+      213: 7261190206892979380
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_31
+  - first:
+      213: 1682965507242927868
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_32
+  - first:
+      213: -8747743070718207135
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_33
+  - first:
+      213: 3712009632092638009
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_34
+  - first:
+      213: -9080693720123126010
+    second: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1579
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ddc694721b96e40800000000000000
+      internalID: 5650241989806710022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1579
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1701407ee175c3120800000000000000
+      internalID: 2394884892090699889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1579
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61100ce5ba407db00800000000000000
+      internalID: 853155788485558550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1579
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc00263df0d96c140800000000000000
+      internalID: 4739648349150511309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 1579
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477d5eb0262b845d0800000000000000
+      internalID: -3078014211131582604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3288bd5b465d021f0800000000000000
+      internalID: -1071622082789668829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1110
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba41648440154abc0800000000000000
+      internalID: -3772801508995361621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1110
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79943b729bd9b2e80800000000000000
+      internalID: -8202288877764654697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1110
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6384589b431ca2b60800000000000000
+      internalID: 7722196943275116598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 1110
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ede2fb1ced2bbf0800000000000000
+      internalID: -309940500617568755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbade8959c443af0800000000000000
+      internalID: -417624660039062530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 641
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89de52eb578f6d40800000000000000
+      internalID: 5579827292044974478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1adf7daa23c0b2c4d854083cde4f1508
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_0: 5650241989806710022
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_1: 2394884892090699889
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_10: -417624660039062530
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_11: 5579827292044974478
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_2: 853155788485558550
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_3: 4739648349150511309
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_4: -3078014211131582604
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_5: -1071622082789668829
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_6: -3772801508995361621
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_7: -8202288877764654697
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_8: 7722196943275116598
+      ANIMACION_MUERTE_SPINASBLANCAS_SPRITESHEET_9: -309940500617568755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
