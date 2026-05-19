@@ -65,11 +65,11 @@ public class Player : Entity
         _pleControls.ArtificialUpdate();
     }
 
-    public override void DañoRecivido(int dañoRes)
+    public override void DaÃ±oRecivido(int daÃ±oRes)
     {    
-        _vidaActual-= dañoRes;
+        _vidaActual-= daÃ±oRes;
         UIManager.ActualizarVida(_vidaActual, _vidaMax);
-        UIManager.Instance.efectoDePantalla.SetTrigger("Dañado");
+        UIManager.Instance.efectoDePantalla.SetTrigger("DaÃ±ado");
         //Object.FindAnyObjectByType<UIManager>().salud.SetFloat("vidaActual", _vidaActual);
         if (_vidaActual <= 0) { Muerto(); }
     }
@@ -101,7 +101,7 @@ public class Player : Entity
     {
         _hijoAnimator.SetBool("Disparo", true);
         Instantiate(_bala, _spownPoint.position, _rotSpownPoint.rotation);
-        BalaPlayer.instance.Daño(_daño);
+        BalaPlayer.instance.DaÃ±o(_daÃ±o);
         UIManager.Instance.cargador.SetTrigger("Disparar");
         yield return new WaitForSeconds(0.1f);
         _hijoAnimator.SetBool("Disparo", false);
