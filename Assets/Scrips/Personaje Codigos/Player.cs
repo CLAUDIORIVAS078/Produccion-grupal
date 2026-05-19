@@ -65,12 +65,11 @@ public class Player : Entity
         _pleControls.ArtificialUpdate();
     }
 
-    public override void Da�oRecivido(int da�oRes)
-    {
-        _vidaActual-= da�oRes;
-
-        float porcentaje = _vidaActual / _vidaMax;
-        Object.FindAnyObjectByType<UIManager>().ActualizarVida(porcentaje);
+    public override void DañoRecivido(int dañoRes)
+    {    
+        _vidaActual-= dañoRes;
+        UIManager.ActualizarVida(_vidaActual, _vidaMax);
+        UIManager.Instance.efectoDePantalla.SetTrigger("Dañado");
         //Object.FindAnyObjectByType<UIManager>().salud.SetFloat("vidaActual", _vidaActual);
         if (_vidaActual <= 0) { Muerto(); }
     }
@@ -102,7 +101,8 @@ public class Player : Entity
     {
         _hijoAnimator.SetBool("Disparo", true);
         Instantiate(_bala, _spownPoint.position, _rotSpownPoint.rotation);
-        BalaPlayer.instance.Da�o(_da�o);
+        BalaPlayer.instance.Daño(_daño);
+        UIManager.Instance.cargador.SetTrigger("Disparar");
         yield return new WaitForSeconds(0.1f);
         _hijoAnimator.SetBool("Disparo", false);
     }
@@ -145,7 +145,6 @@ public class Player : Entity
     {
         if(_cantBalas >= _maxAmmo)
         {
-            //Object.FindAnyObjectByType<UIManager>().cargador.SetTrigger("Recargar");
             _cantBalas = _maxAmmo;
             return;
         }
@@ -156,6 +155,7 @@ public class Player : Entity
     {
         _recargando = true;
         SoundManager.instance.PlaySFX(SoundManager.instance.recarga);
+        UIManager.Instance.cargador.SetTrigger("Recargar");
         yield return new WaitForSeconds(_tempRecarga);
         _cantBalas = _maxAmmo;
         _recargando = false;

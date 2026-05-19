@@ -50,7 +50,7 @@ public class EnemDispara : Enemigos
         if (_contador >= _velDisparo)
         {
             Instantiate(_bala, _spownBala.transform.position, _spownBala.transform.rotation);
-            BalaEnem.instance.Daño(_daño);
+            BalaEnem.instance.DaÃ±o(_daÃ±o);
             _contador = 0;
         }
         else { _contador++; }
@@ -65,9 +65,9 @@ public class EnemDispara : Enemigos
         else {  Gizmos.color = Color.green; }
         Gizmos.DrawLine(transform.position, _player.transform.position);
     }
-    public override void DañoRecivido(int dañoRes)
+    public override void DaÃ±oRecivido(int daÃ±oRes)
     {
-        _vidaActual -= dañoRes;
+        _vidaActual -= daÃ±oRes;
         if(_vidaActual <= 0) { Muerto(); }
     }
 

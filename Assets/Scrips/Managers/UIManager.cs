@@ -3,14 +3,28 @@ using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
-    public Image barraVida;
-    public Animator cargador;
-    public Animator salud;
+    public static UIManager Instance;
+
+    public  Image barraVida;
+    public  Animator salud;
+    public  Animator efectoDePantalla;
+    
+
+    public  Animator cargador;
 
 
-    public void ActualizarVida(float porcentaje)
+
+    private void Awake()
     {
-        barraVida.fillAmount = porcentaje;
+        Instance = this;
+    }
+   
+    public static void ActualizarVida(float vidaActual, float vidaMaxima)
+    {
+        float porcentaje = vidaActual / vidaMaxima;
+        Instance.barraVida.fillAmount = porcentaje;
+        Instance.salud.SetFloat("vidaActual", vidaActual);
+
     }
 
 }
