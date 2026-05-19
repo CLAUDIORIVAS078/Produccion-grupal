@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: bade9c4222dcf064c83342d568f4969d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8801364737315432820
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_0
+  - first:
+      213: -4013849178716181100
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_1
+  - first:
+      213: 1218189045619127188
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_2
+  - first:
+      213: -5394313981848126636
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_3
+  - first:
+      213: -7504344704361772312
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_4
+  - first:
+      213: 8136520597700987925
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_5
+  - first:
+      213: -7597364951392740106
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_6
+  - first:
+      213: 9093095415209263085
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_7
+  - first:
+      213: -2593889748736290275
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_8
+  - first:
+      213: 1374296374785553138
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_9
+  - first:
+      213: -8532202511308145028
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_10
+  - first:
+      213: -6363600219723257139
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_11
+  - first:
+      213: 2880350090645617847
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_12
+  - first:
+      213: -6824217436186097640
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_13
+  - first:
+      213: 8009107068150560188
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_14
+  - first:
+      213: 416186164406210725
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_15
+  - first:
+      213: 1109328409075204116
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_16
+  - first:
+      213: -816097625548479023
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_17
+  - first:
+      213: -9158306586164283670
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_18
+  - first:
+      213: 2132326579374840669
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_19
+  - first:
+      213: -3047297384842010721
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_20
+  - first:
+      213: -1318847478853570880
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_21
+  - first:
+      213: -8680243718177234959
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_22
+  - first:
+      213: -5624456117217457544
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_23
+  - first:
+      213: -744938769907820490
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_24
+  - first:
+      213: -6169085509302570499
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_25
+  - first:
+      213: -8953550570663780226
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_26
+  - first:
+      213: -8842892768253799766
+    second: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3089
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c861aad27654bd580800000000000000
+      internalID: -8801364737315432820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_1
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 3089
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49de0a03071fb48c0800000000000000
+      internalID: -4013849178716181100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_2
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 3089
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49376659b70e7e010800000000000000
+      internalID: 1218189045619127188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2704
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bf409830c8325b0800000000000000
+      internalID: -5394313981848126636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2704
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eace6840463bd790800000000000000
+      internalID: -7504344704361772312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_5
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2704
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ccd9ddf5abae070800000000000000
+      internalID: 8136520597700987925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2319
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc9b3b44dcb09690800000000000000
+      internalID: -7597364951392740106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2319
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff7445a1a213e70800000000000000
+      internalID: 9093095415209263085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_8
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2319
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12db0c3407a00cd0800000000000000
+      internalID: -2593889748736290275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1934
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f23333854b721310800000000000000
+      internalID: 1374296374785553138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1934
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e38c18507879980800000000000000
+      internalID: -8532202511308145028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_11
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1934
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca2cc2e053ffa7a0800000000000000
+      internalID: -6363600219723257139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1549
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc32bd852f09f720800000000000000
+      internalID: 2880350090645617847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1549
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818c916e5628b41a0800000000000000
+      internalID: -6824217436186097640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_14
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1549
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53f25c170162f60800000000000000
+      internalID: 8009107068150560188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a05dd98c1796c500800000000000000
+      internalID: 416186164406210725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_16
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1164
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4104d228f40256f00800000000000000
+      internalID: 1109328409075204116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_17
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1164
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5a42f8883aca4f0800000000000000
+      internalID: -816097625548479023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 779
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6be83cea827e080800000000000000
+      internalID: -9158306586164283670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_19
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 779
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bd2c4f9bb879d10800000000000000
+      internalID: 2132326579374840669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_20
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 779
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fd38b7c23d5b5d0800000000000000
+      internalID: -3047297384842010721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce630e943382bde0800000000000000
+      internalID: -1318847478853570880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_22
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 394
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffda360454998780800000000000000
+      internalID: -8680243718177234959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_23
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 394
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0b7606fae1f1b0800000000000000
+      internalID: -5624456117217457544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6385a38b22279a5f0800000000000000
+      internalID: -744938769907820490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_25
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 9
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1b20d1a61036aa0800000000000000
+      internalID: -6169085509302570499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_26
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 9
+        width: 665
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70e615a1399eb380800000000000000
+      internalID: -8953550570663780226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 89c0208e2bf010a45b26bc96276246da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_0: -8801364737315432820
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_1: -4013849178716181100
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_10: -8532202511308145028
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_11: -6363600219723257139
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_12: 2880350090645617847
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_13: -6824217436186097640
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_14: 8009107068150560188
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_15: 416186164406210725
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_16: 1109328409075204116
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_17: -816097625548479023
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_18: -9158306586164283670
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_19: 2132326579374840669
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_2: 1218189045619127188
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_20: -3047297384842010721
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_21: -1318847478853570880
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_22: -8680243718177234959
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_23: -5624456117217457544
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_24: -744938769907820490
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_25: -6169085509302570499
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_26: -8953550570663780226
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_3: -5394313981848126636
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_4: -7504344704361772312
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_5: 8136520597700987925
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_6: -7597364951392740106
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_7: 9093095415209263085
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_8: -2593889748736290275
+      SPRITESHEET_SPINASBLANCAS_ANIM_ATAQUE_9: 1374296374785553138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

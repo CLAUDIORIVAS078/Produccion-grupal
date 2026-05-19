@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -103,9 +103,9 @@ TextureImporter:
       name: "Efecto recibir da\xF1o sprite sheet 1920x1080_0"
       rect:
         serializedVersion: 2
-        x: 1919
+        x: 0
         y: 0
-        width: 5762
+        width: 1920
         height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -121,11 +121,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: "Efecto recibir da\xF1o sprite sheet 1920x1080_1"
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b54a5993ef5264ab6bc13800ff67ec
+      internalID: -689267808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Efecto recibir da\xF1o sprite sheet 1920x1080_2"
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b54813a7e22340b3c6dba5b12242b
+      internalID: 284148287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Efecto recibir da\xF1o sprite sheet 1920x1080_3"
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abafd71d251bba43865f6bda8144bff
+      internalID: -242024574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Efecto recibir da\xF1o sprite sheet 1920x1080_4"
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd97885b08085044810ffd9a91d050a
+      internalID: 317852649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 94e6f80a98ef853418053d91bdee50b7
     internalID: 0
     vertices: []
     indices: 
@@ -136,6 +224,10 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       "Efecto recibir da\xF1o sprite sheet 1920x1080_0": 484149789769907920
+      "Efecto recibir da\xF1o sprite sheet 1920x1080_1": -689267808
+      "Efecto recibir da\xF1o sprite sheet 1920x1080_2": 284148287
+      "Efecto recibir da\xF1o sprite sheet 1920x1080_3": -242024574
+      "Efecto recibir da\xF1o sprite sheet 1920x1080_4": 317852649
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

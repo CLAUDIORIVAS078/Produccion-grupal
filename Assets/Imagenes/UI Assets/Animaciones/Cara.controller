@@ -35,7 +35,7 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 4
     m_ConditionEvent: vidaActual
-    m_EventTreshold: 75
+    m_EventTreshold: 76
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2557898388661991167}
   m_Solo: 0
@@ -223,7 +223,7 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 4
     m_ConditionEvent: vidaActual
-    m_EventTreshold: 25
+    m_EventTreshold: 26
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 351230512812265905}
   m_Solo: 0

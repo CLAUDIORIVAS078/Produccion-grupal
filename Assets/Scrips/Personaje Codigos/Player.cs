@@ -26,6 +26,8 @@ public class Player : Entity
     private PlaMovimiento _plamoviento;
     private PleControls _pleControls;
     private Player _player;
+    [SerializeField]
+    private Animator _hijoAnimator;
 
     private bool _recargando = false;
 
@@ -48,13 +50,14 @@ public class Player : Entity
         _rb = GetComponent<Rigidbody2D>();
         _meTrans = GetComponent<Transform>();
         _animator = GetComponent<Animator>();
-        _plamoviento = new PlaMovimiento(_rb, _velocidad, _rotSpownPoint, transform, _angulo, _animator);
+        _plamoviento = new PlaMovimiento(_rb, _velocidad, _rotSpownPoint, transform, _spownPoint, _angulo, _animator);
         _pleControls = new PleControls(_plamoviento, _player, _dashForce, _mouse);
+        _vidaActual = _vidaMax;
     }
 
     private void Update()
     {
-
+        
     }
 
     private void FixedUpdate()
@@ -63,18 +66,17 @@ public class Player : Entity
     }
 
     public override void DañoRecivido(int dañoRes)
-    {
+    {    
         _vidaActual-= dañoRes;
-
-        float porcentaje = _vidaActual / _vidaMax;
-        Object.FindAnyObjectByType<UIManager>().ActualizarVida(porcentaje);
+        UIManager.ActualizarVida(_vidaActual, _vidaMax);
+        UIManager.Instance.efectoDePantalla.SetTrigger("Dañado");
         //Object.FindAnyObjectByType<UIManager>().salud.SetFloat("vidaActual", _vidaActual);
         if (_vidaActual <= 0) { Muerto(); }
     }
 
     public override void Muerto()
     {
-        
+        Destroy(gameObject);
     }
 
 
@@ -85,14 +87,24 @@ public class Player : Entity
             if (_cdDisparo >= _fireRate)
             {
                 _cantBalas--;
-                SoundManager.instance.PlaySFX(SoundManager.instance.disperoPlayer);
-                Instantiate(_bala, _spownPoint.position, _rotSpownPoint.rotation);
-                //Object.FindAnyObjectByType<UIManager>().cargador.SetTrigger("Disparar");
                 _cdDisparo = 0;
+                //Object.FindAnyObjectByType<UIManager>().cargador.SetTrigger("Disparar");
+                SoundManager.instance.PlaySFX(SoundManager.instance.disperoPlayer);
+                StartCoroutine(AniArma());
             }
             else { _cdDisparo++; }
         }
         else { }
+    }
+
+    IEnumerator AniArma()
+    {
+        _hijoAnimator.SetBool("Disparo", true);
+        Instantiate(_bala, _spownPoint.position, _rotSpownPoint.rotation);
+        BalaPlayer.instance.Daño(_daño);
+        UIManager.Instance.cargador.SetTrigger("Disparar");
+        yield return new WaitForSeconds(0.1f);
+        _hijoAnimator.SetBool("Disparo", false);
     }
 
     private void OnDrawGizmos()
@@ -133,7 +145,6 @@ public class Player : Entity
     {
         if(_cantBalas >= _maxAmmo)
         {
-            //Object.FindAnyObjectByType<UIManager>().cargador.SetTrigger("Recargar");
             _cantBalas = _maxAmmo;
             return;
         }
@@ -144,6 +155,7 @@ public class Player : Entity
     {
         _recargando = true;
         SoundManager.instance.PlaySFX(SoundManager.instance.recarga);
+        UIManager.Instance.cargador.SetTrigger("Recargar");
         yield return new WaitForSeconds(_tempRecarga);
         _cantBalas = _maxAmmo;
         _recargando = false;

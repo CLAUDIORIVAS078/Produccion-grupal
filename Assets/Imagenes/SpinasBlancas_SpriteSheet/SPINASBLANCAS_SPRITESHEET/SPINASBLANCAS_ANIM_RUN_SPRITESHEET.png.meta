@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 9179a0952bc0c1a43932735c7cb7f2ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5229866127631668324
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_0
+  - first:
+      213: 987953228698435936
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_1
+  - first:
+      213: 1594699452085154749
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_2
+  - first:
+      213: 4675260380552467548
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_3
+  - first:
+      213: 2947496294325403872
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_4
+  - first:
+      213: -7056921846593114508
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_5
+  - first:
+      213: 3485485952931477415
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_6
+  - first:
+      213: 2610518021023524192
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_7
+  - first:
+      213: 7335178921291273201
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_8
+  - first:
+      213: 3088323327515375525
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_9
+  - first:
+      213: -1637500073878547449
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_10
+  - first:
+      213: -3546575810529796000
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_11
+  - first:
+      213: 8263854845081603385
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_12
+  - first:
+      213: -9137917514613032558
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_13
+  - first:
+      213: -190898465594996792
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_14
+  - first:
+      213: 6033772704709321158
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_15
+  - first:
+      213: 6135813622544776463
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_16
+  - first:
+      213: -972760039815700285
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_17
+  - first:
+      213: 3446770249177168690
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_18
+  - first:
+      213: -1670756628550148285
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_19
+  - first:
+      213: -9089993385953523438
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_20
+  - first:
+      213: -2480857089414950486
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_21
+  - first:
+      213: 8467509934184321106
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_22
+  - first:
+      213: -8385171285151518173
+    second: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1675
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4645558b887349840800000000000000
+      internalID: 5229866127631668324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1675
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06145432a3ae5bd00800000000000000
+      internalID: 987953228698435936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1675
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3bb0dd3b2812610800000000000000
+      internalID: 1594699452085154749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1675
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c549947ab8cd1e040800000000000000
+      internalID: 4675260380552467548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1675
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0cb00634c97e820800000000000000
+      internalID: 2947496294325403872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1675
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eaf1e38f6c01e90800000000000000
+      internalID: -7056921846593114508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7381ed10fee5030800000000000000
+      internalID: 3485485952931477415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1302
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065ecda1f4c6a3420800000000000000
+      internalID: 2610518021023524192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1302
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3df7f8d5acbc560800000000000000
+      internalID: 7335178921291273201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1302
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a73b1824bdebda20800000000000000
+      internalID: 3088323327515375525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1302
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7041bc0db5e6649e0800000000000000
+      internalID: -1637500073878547449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1302
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060e064471808cec0800000000000000
+      internalID: -3546575810529796000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dca74a23c1fa270800000000000000
+      internalID: 8263854845081603385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 929
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2997baa6f689f2180800000000000000
+      internalID: -9137917514613032558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_14
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 929
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c70b026bdac95df0800000000000000
+      internalID: -190898465594996792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_15
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 929
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1a5af7e444cb350800000000000000
+      internalID: 6033772704709321158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_16
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 929
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0db8c31bf9c62550800000000000000
+      internalID: 6135813622544776463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_17
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 929
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0271fc5ef0082f0800000000000000
+      internalID: -972760039815700285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bf694a74365df20800000000000000
+      internalID: 3446770249177168690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_19
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 556
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f9329c2b740d8e0800000000000000
+      internalID: -1670756628550148285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_20
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 556
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21907932d2bd9d180800000000000000
+      internalID: -9089993385953523438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_21
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 556
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa199ee0f99329dd0800000000000000
+      internalID: -2480857089414950486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_22
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 556
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250d52f1c63a28570800000000000000
+      internalID: 8467509934184321106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPINASBLANCAS_ANIM_RUN_SPRITESHEET_23
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 556
+        width: 663
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322fcb78423e1ab80800000000000000
+      internalID: -8385171285151518173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 06fe4c288a89bc34786461cc78393501
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_0: 5229866127631668324
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_1: 987953228698435936
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_10: -1637500073878547449
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_11: -3546575810529796000
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_12: 8263854845081603385
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_13: -9137917514613032558
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_14: -190898465594996792
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_15: 6033772704709321158
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_16: 6135813622544776463
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_17: -972760039815700285
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_18: 3446770249177168690
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_19: -1670756628550148285
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_2: 1594699452085154749
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_20: -9089993385953523438
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_21: -2480857089414950486
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_22: 8467509934184321106
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_23: -8385171285151518173
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_3: 4675260380552467548
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_4: 2947496294325403872
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_5: -7056921846593114508
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_6: 3485485952931477415
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_7: 2610518021023524192
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_8: 7335178921291273201
+      SPINASBLANCAS_ANIM_RUN_SPRITESHEET_9: 3088323327515375525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

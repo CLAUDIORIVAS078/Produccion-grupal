@@ -12,7 +12,7 @@ public abstract class Entity : MonoBehaviour
     protected float _velocidad;
     [SerializeField]
     protected float _dashForce;
-
+    [SerializeField]
     protected int _vidaActual;
 
     [SerializeField]
